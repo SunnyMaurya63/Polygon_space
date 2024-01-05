@@ -4,7 +4,7 @@ The Polygon Space Generator is a Python program that generates a polygon passing
 
 ## How to Run
 Ensure you have Python installed on your system.
-Run the program using the following command: ## play.py
+Run the program using the following command:  play.py
 
 The program will display a help text with the following options:-
 
