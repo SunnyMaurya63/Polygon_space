@@ -9,8 +9,11 @@ Run the program using the following command:  play.py
 The program will display a help text with the following options:-
 
 +/-: Change the number of points in the generated polygon.
+
 r: Randomize the position of points.
+
 q: Quit the program.
+
 Press the corresponding keys to perform the desired action.
 
 ## Dependencies:-
